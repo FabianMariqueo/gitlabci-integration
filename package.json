@@ -1,0 +1,19 @@
+{
+  "name": "gitlabci-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianMariqueo/gitlabci-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianMariqueo/gitlabci-integration/issues"
+  },
+  "homepage": "https://github.com/FabianMariqueo/gitlabci-integration#readme"
+}
